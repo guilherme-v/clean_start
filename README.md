@@ -1,12 +1,30 @@
-# Clean Start
+# Clean Start  🤖
 
 ![coverage][coverage_badge]
 
-rootshealth developer task 🤖
+---
+
+## What's Included? 📦
+
+✅  Architecture - Clean architecture
+
+✅  Build Flavors - Multiple flavor support for development, staging, and production
+
+✅  Internationalization Support - Internationalization support
+
+✅  Sound Null-Safety - No more null-dereference exceptions at runtime. Develop with a sound, static type system.
+
+✅  Bloc - Integrated bloc architecture for scalable, testable code which offers a clear separation between business logic and presentation
+
+✅  Testing - Unit and Widget Tests (no Integration Tests - for now)
+
+✅  Logging - Extensible logging to capture uncaught Flutter and Dart Exceptions
+
+✅  Very Good Analysis - Strict Lint Rules which are used at Very Good Ventures
+
+✅  Continuous Integration - Lint, format, test, and enforce code coverage using GitHub Actions
 
 ![architecture](./art/app4.png?raw=true)
-
----
 
 ## Architecture overview 🏗️
 
