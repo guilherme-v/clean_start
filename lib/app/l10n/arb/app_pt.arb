@@ -1,0 +1,11 @@
+{
+  "@@locale": "pt",
+  "homeAppBarTitle": "Histórico de Glicose",
+  "@homeAppBarTitle": {
+    "description": "Texto exibido na AppBar da Home Page"
+  },
+  "homeLoadErrorMessage": "Algo deu errado. Por favor, tente novamente mais tarde",
+  "@homeLoadErrorMessage": {
+    "description": "Erro exibido na Home Page caso seja impossível carregar o histórico de glicose"
+  }
+}

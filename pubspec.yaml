@@ -1,0 +1,35 @@
+name: rootshealth_test
+description: rootshealth developer task
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+
+dependencies:
+  bloc: ^7.0.0
+  csv: ^5.0.0
+  equatable: ^2.0.3
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.1.0
+  flutter_localizations:
+    sdk: flutter
+  get_it: ^7.2.0
+  grouped_list: ^4.1.0
+  intl: ^0.17.0
+  syncfusion_flutter_charts: ^19.2.55+1
+
+dev_dependencies:
+  bloc_test: ^8.1.0
+  flutter_test:
+    sdk: flutter
+  mockingjay: ^0.1.0
+  mocktail: ^0.1.0
+  very_good_analysis: ^2.3.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/csv/

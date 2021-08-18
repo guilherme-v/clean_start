@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "homeAppBarTitle": "Glucose History",
+  "@homeAppBarTitle": {
+    "description": "Text shown in the AppBar of the home Page"
+  },
+  "homeLoadErrorMessage": "Something went wrong. Please try again later.",
+  "@homeLoadErrorMessage": {
+    "description": "Error text shown on the Home Page when an error occurred while loading the history."
+  }
+}

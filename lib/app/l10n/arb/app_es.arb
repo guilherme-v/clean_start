@@ -1,0 +1,11 @@
+{
+  "@@locale": "es",
+  "homeAppBarTitle": "Historial de glucosa",
+  "@homeAppBarTitle": {
+    "description": "Texto mostrado en la AppBar de la página del contador"
+  },
+  "homeLoadErrorMessage": "Algo salió mal. Vuelve a intentarlo más tarde.",
+  "@homeLoadErrorMessage": {
+    "description": "Texto de error que se muestra en la página de inicio cuando es imposible cargar el historial de glucosa"
+  }
+}

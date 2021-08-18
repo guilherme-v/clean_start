@@ -1,0 +1,11 @@
+{
+  "@@locale": "de",
+  "homeAppBarTitle": "Glukoseverlauf",
+  "@homeAppBarTitle": {
+    "description": "Text, der in der AppBar der Startseite angezeigt wird"
+  },
+  "homeLoadErrorMessage": "Etwas ist schief gelaufen. Bitte versuchen Sie es später noch einmal.",
+  "@homeLoadErrorMessage": {
+    "description": "Fehlertext, der auf der Homepage angezeigt wird, wenn beim Laden des Verlaufs ein Fehler aufgetreten ist."
+  }
+}
